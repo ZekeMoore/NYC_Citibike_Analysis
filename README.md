@@ -26,15 +26,15 @@ The above line graph illustrates checkout times by gender. The most popular chec
 
 ### Trips by Weekday Per Hour
 ![TripbyWeekdayPerHour](https://github.com/ZekeMoore/NYC_Citibike_Challenge/blob/main/Resources/Trips%20by%20Weekdays%20per%20Hour.jpg)
-The above heatmap illustrates the number of trips by weekday per hour. The legend displays the color assignment for the heatmap. Light orange shows a minimum of 360 trips, and dark orange-red illustrates up to 44,905 trips. It is apparent that 5 and 6 pm are the most common times for trips, and that the wee hours of the morning are the least popular times. 
+The above heatmap illustrates the number of trips by weekday per hour. The legend displays the color assignment for the heatmap. Light seafoam green shows a minimum of 360 trips, and dark blue illustrates up to 44,905 trips. It is apparent that 5 and 6 pm are the most common times for trips, and that the wee hours of the morning are the least popular times. 
 
 ### Trips by Gender
 ![TripsbyGender](https://github.com/ZekeMoore/NYC_Citibike_Challenge/blob/main/Resources/Trips%20by%20Gender%20(Weekday%20per%20hour).jpg)
-The above heatmap shows trips by weekday per hour by gender. In the link, there is a sliding bar that allows the viewer to see all genders. It is clear that men make up the majority of users by the concentration of orange red on their chart. The females chart has a similar distrubution as the male chart, but in a lighter shade of orange. Both men and women tend to ride more during the weekday peak traffic hours. Users of unknown gender tend to ride Citibikes slightly more often on the weekend. 
+The above heatmap shows trips by weekday per hour by gender. In the link, there is a sliding bar that allows the viewer to see all genders. It is clear that men make up the majority of users by the concentration of bkue on their chart. The females chart has a similar distrubution as the male chart, but in a lighter shade of seafoam green. Both men and women tend to ride more during the weekday peak traffic hours. Users of unknown gender tend to ride Citibikes slightly more often on the weekend. 
 
 ### User Trips by Gender by Weekday
 ![TripsbeGenderbyWeekday](https://github.com/ZekeMoore/NYC_Citibike_Challenge/blob/main/Resources/User%20trips%20by%20weekday%20by%20gender.jpg)
-The above heatmap illustrates user trips by gender by weekday, and a breakdown between subscribers and customers. The legend displays the color coding of the heatmap: from seafoam green at the low point of 3,528 users and dark indigo at 259,316 users. It is apparent that the most trips are taken by male subscripers, followed by female subscribers. 
+The above heatmap illustrates user trips by gender by weekday, and a breakdown between subscribers and customers. The legend displays the color coding of the heatmap: from seafoam green at the low point of 3,528 users and dark blue at 259,316 users. It is apparent that the most trips are taken by male subscripers, followed by female subscribers. 
 
 ### Top Ending Locations
 ![TopEndingLocations](https://github.com/ZekeMoore/NYC_Citibike_Challenge/blob/main/Resources/Top%20Ending%20Locations.jpg)
@@ -43,4 +43,4 @@ The final image is a map of Top Ending Locations in NYC. It is very similar to t
 ## Summary
 The results of my analysis is that the biggest group of users in NYC are male subscribers who most likely ride Citibikes on their commute home from work, which takes about 5 minutes. 
 For further research, I would include Trips by Weekday per Hour in January, to see how much a difference there is in usage. I would also look at Checkout Times for Users in January as well. 
-One graph I would have included, but didn't, is Average Trip Duration (distance). The reason I didn't include that graph, is because I assumed the distance of measurement would be miles, but the numbers didn't add up. I don't know if they were using meters, or what, but the numbers seemed really high compared to the average trip duration in minutes. 
+One graph I would have included, but didn't, is Average Trip Duration (distance). The reason I didn't include that graph, is because I assumed the distance of measurement would be miles, but the numbers didn't add up. I don't know which unit of measure they were using, but the numbers seemed really high compared to the average trip duration in minutes. 
